@@ -1,6 +1,7 @@
 name: flutter_naver_login_example
 description: Demonstrates how to use the flutter_naver_login plugin.
 publish_to: 'none'
+version: 1.0.1+1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
